@@ -160,7 +160,7 @@ audit:
 ## Development
 
 ```bash
-git clone https://github.com/polaris-audit/polaris-audit.git
+git clone https://github.com/cnohall/polaris-audit.git
 cd polaris-audit
 pip install -e ".[dev]"
 polaris scan https://example.com
